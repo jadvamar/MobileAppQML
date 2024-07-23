@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/p3/">
+    <file alias="Main.qml">C:/Qt_Applications/ProjectQt/p3/Main.qml</file>
+    <file alias="Image.qrc">C:/Qt_Applications/ProjectQt/p3/Image.qrc</file>
+  </qresource>
+</RCC>
+

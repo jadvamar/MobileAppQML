@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/p3">
+    <file alias="qmldir">C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/p3/qmldir</file>
+  </qresource>
+</RCC>
+

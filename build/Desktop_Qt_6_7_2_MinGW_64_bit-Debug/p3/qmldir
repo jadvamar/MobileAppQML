@@ -1,0 +1,5 @@
+module p3
+typeinfo appp3.qmltypes
+prefer :/p3/
+Main 1.0 Main.qml
+

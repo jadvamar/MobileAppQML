@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pref1">
+        <file>android.png</file>
+    </qresource>
+</RCC>

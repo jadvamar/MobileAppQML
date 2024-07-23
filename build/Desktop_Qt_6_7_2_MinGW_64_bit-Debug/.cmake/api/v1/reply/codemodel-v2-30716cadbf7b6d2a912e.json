@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-adb29018a6f19436250e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "p3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-87b8dfa132a360069df7.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-37cab5e48efc00b9635e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b4e95382133258e8afd7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-39470b18b47bfedc36b7.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3-Debug-042c0629e56bbfd0de74.json",
+					"name" : "appp3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_autogen-Debug-fcd9436c9fa5047d8595.json",
+					"name" : "appp3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_autogen_timestamp_deps-Debug-7bae31750730167881a3.json",
+					"name" : "appp3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_qmlimportscan-Debug-e29e8db8e3316aad05d7.json",
+					"name" : "appp3_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_qmllint-Debug-b61e60e2a57e933b6e2d.json",
+					"name" : "appp3_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_qmllint_json-Debug-421f2c61c03252f0d79e.json",
+					"name" : "appp3_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_qmllint_module-Debug-41e7065fd5ce1207eae3.json",
+					"name" : "appp3_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_qmltyperegistration-Debug-14dd008cf3468462ab67.json",
+					"name" : "appp3_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appp3_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appp3_tooling-Debug-b295694061c8ec40dfb9.json",
+					"name" : "appp3_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Qt_Applications/ProjectQt/p3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

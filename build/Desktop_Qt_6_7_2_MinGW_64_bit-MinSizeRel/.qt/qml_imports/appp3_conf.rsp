@@ -1,0 +1,14 @@
+-rootPath
+C:/Qt_Applications/ProjectQt/p3
+-cmake-output
+-output-file
+C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/.qt/qml_imports/appp3_conf.cmake
+-importPath
+C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/p3
+-importPath
+C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel
+-importPath
+C:/Qt/6.7.2/mingw_64/./qml
+-qrcFiles
+C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/.qt/rcc/qmake_p3.qrc
+C:/Qt_Applications/ProjectQt/p3/build/Desktop_Qt_6_7_2_MinGW_64_bit-MinSizeRel/.qt/rcc/appp3_raw_qml_0.qrc
